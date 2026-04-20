@@ -13,7 +13,7 @@
     <soundInteract>Metal_Drop</soundInteract>
     <soundDrop>Metal_Drop</soundDrop>
     <statBases>
-      <MarketValue>12</MarketValue>
+      <MarketValue>0.4</MarketValue>
       <Mass>0.04</Mass>
       <Flammability>0</Flammability>
     </statBases>
