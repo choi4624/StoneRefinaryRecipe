@@ -26,6 +26,9 @@
         <li>StoneChunks</li>
       </categories>
     </fixedIngredientFilter>
+    <skillRequirements>
+      <Mining>1</Mining>
+    </skillRequirements>
     <products>
       <StoneRefining_CrushedStone>40</StoneRefining_CrushedStone>
     </products>

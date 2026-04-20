@@ -30,6 +30,7 @@
     </products>
     <skillRequirements>
       <Intellectual>5</Intellectual>
+      <Mining>1</Mining>
     </skillRequirements>
     <workSkill>Intellectual</workSkill>
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
@@ -69,6 +70,7 @@
     </products>
     <skillRequirements>
       <Intellectual>17</Intellectual>
+      <Mining>1</Mining>
     </skillRequirements>
     <workSkill>Intellectual</workSkill>
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
@@ -108,6 +110,7 @@
     </products>
     <skillRequirements>
       <Intellectual>17</Intellectual>
+      <Mining>1</Mining>
     </skillRequirements>
     <workSkill>Intellectual</workSkill>
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
@@ -147,6 +150,7 @@
     </products>
     <skillRequirements>
       <Intellectual>8</Intellectual>
+      <Mining>1</Mining>
     </skillRequirements>
     <workSkill>Intellectual</workSkill>
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
@@ -186,6 +190,7 @@
     </products>
     <skillRequirements>
       <Intellectual>14</Intellectual>
+      <Mining>1</Mining>
     </skillRequirements>
     <workSkill>Intellectual</workSkill>
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
