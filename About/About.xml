@@ -9,13 +9,6 @@
   </supportedVersions>
   <description>Crush stone chunks at the electric smelter or Miho shaft furnace. Soft reliance of Miho, the celestial fox (https://steamcommunity.com/workshop/filedetails/?id=2816826107)
 </description>
-  <modDependencies>
-    <li>
-      <packageId>brrainz.harmony</packageId>
-      <displayName>Harmony</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-    </li>
-  </modDependencies>
   <loadAfter>
     <li>miho.fortifiedoutremer</li>
   </loadAfter>
