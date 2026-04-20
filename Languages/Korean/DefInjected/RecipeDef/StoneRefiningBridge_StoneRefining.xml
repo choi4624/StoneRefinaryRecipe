@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <StoneRefining_ChunksToCrushed.label>석재 덩어리 분쇄</StoneRefining_ChunksToCrushed.label>
+  <StoneRefining_ChunksToCrushed.description>석재 덩어리를 분쇄 석재로 만듭니다. 채굴량이 높을수록 같은 덩어리에서 더 많은 분쇄 석재를 얻습니다.</StoneRefining_ChunksToCrushed.description>
+  <StoneRefining_ChunksToCrushed.jobString>석재 덩어리 분쇄 중.</StoneRefining_ChunksToCrushed.jobString>
+
+  <StoneRefining_CrushedToSteel.label>분쇄 석재에서 강철 추출</StoneRefining_CrushedToSteel.label>
+  <StoneRefining_CrushedToSteel.description>분쇄 석재를 녹여 강철을 얻습니다.</StoneRefining_CrushedToSteel.description>
+  <StoneRefining_CrushedToSteel.jobString>강철 추출 중.</StoneRefining_CrushedToSteel.jobString>
+
+  <StoneRefining_CrushedToPlasteel.label>분쇄 석재에서 플라스틸 추출</StoneRefining_CrushedToPlasteel.label>
+  <StoneRefining_CrushedToPlasteel.description>분쇄 석재를 고온 처리해 플라스틸을 얻습니다.</StoneRefining_CrushedToPlasteel.description>
+  <StoneRefining_CrushedToPlasteel.jobString>플라스틸 추출 중.</StoneRefining_CrushedToPlasteel.jobString>
+
+  <StoneRefining_CrushedToUranium.label>분쇄 석재에서 우라늄 추출</StoneRefining_CrushedToUranium.label>
+  <StoneRefining_CrushedToUranium.description>분쇄 석재에서 희석 우라늄을 분리합니다.</StoneRefining_CrushedToUranium.description>
+  <StoneRefining_CrushedToUranium.jobString>우라늄 추출 중.</StoneRefining_CrushedToUranium.jobString>
+
+  <StoneRefining_CrushedToSilver.label>분쇄 석재에서 은 추출</StoneRefining_CrushedToSilver.label>
+  <StoneRefining_CrushedToSilver.description>분쇄 석재에서 미량의 은을 회수합니다.</StoneRefining_CrushedToSilver.description>
+  <StoneRefining_CrushedToSilver.jobString>은 추출 중.</StoneRefining_CrushedToSilver.jobString>
+
+  <StoneRefining_CrushedToGold.label>분쇄 석재에서 금 추출</StoneRefining_CrushedToGold.label>
+  <StoneRefining_CrushedToGold.description>분쇄 석재에서 미량의 금을 회수합니다.</StoneRefining_CrushedToGold.description>
+  <StoneRefining_CrushedToGold.jobString>금 추출 중.</StoneRefining_CrushedToGold.jobString>
+
+  <StoneRefining_ChunkToSteelDirect.label>석재 덩어리에서 강철 직접 추출</StoneRefining_ChunkToSteelDirect.label>
+  <StoneRefining_ChunkToSteelDirect.description>고열로 석재 덩어리에서 곧바로 강철을 얻습니다.</StoneRefining_ChunkToSteelDirect.description>
+  <StoneRefining_ChunkToSteelDirect.jobString>강철 직접 추출 중.</StoneRefining_ChunkToSteelDirect.jobString>
+
+  <StoneRefining_ChunkToPlasteelDirect.label>석재 덩어리에서 플라스틸 직접 추출</StoneRefining_ChunkToPlasteelDirect.label>
+  <StoneRefining_ChunkToPlasteelDirect.description>극고온으로 석재 덩어리에서 플라스틸을 얻습니다.</StoneRefining_ChunkToPlasteelDirect.description>
+  <StoneRefining_ChunkToPlasteelDirect.jobString>플라스틸 직접 추출 중.</StoneRefining_ChunkToPlasteelDirect.jobString>
+
+  <StoneRefining_ChunkToUraniumDirect.label>석재 덩어리에서 우라늄 직접 추출</StoneRefining_ChunkToUraniumDirect.label>
+  <StoneRefining_ChunkToUraniumDirect.description>석재 덩어리에서 우라늄을 직접 분리합니다.</StoneRefining_ChunkToUraniumDirect.description>
+  <StoneRefining_ChunkToUraniumDirect.jobString>우라늄 직접 추출 중.</StoneRefining_ChunkToUraniumDirect.jobString>
+
+  <StoneRefining_ChunkToSilverDirect.label>석재 덩어리에서 은 직접 추출</StoneRefining_ChunkToSilverDirect.label>
+  <StoneRefining_ChunkToSilverDirect.description>석재 덩어리에서 은을 직접 회수합니다.</StoneRefining_ChunkToSilverDirect.description>
+  <StoneRefining_ChunkToSilverDirect.jobString>은 직접 추출 중.</StoneRefining_ChunkToSilverDirect.jobString>
+
+  <StoneRefining_ChunkToGoldDirect.label>석재 덩어리에서 금 직접 추출</StoneRefining_ChunkToGoldDirect.label>
+  <StoneRefining_ChunkToGoldDirect.description>석재 덩어리에서 금을 직접 회수합니다.</StoneRefining_ChunkToGoldDirect.description>
+  <StoneRefining_ChunkToGoldDirect.jobString>금 직접 추출 중.</StoneRefining_ChunkToGoldDirect.jobString>
+</LanguageData>

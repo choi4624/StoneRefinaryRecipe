@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <StoneRefining_ReformToGranite.label>석재 블록을 화강암 블록으로 재성형 x1</StoneRefining_ReformToGranite.label>
+  <StoneRefining_ReformToGranite.description>석회암·대리석·사암·점판암 블록이나 미호 세라믹 1개를 화강암 블록 1개로 바꿉니다.</StoneRefining_ReformToGranite.description>
+  <StoneRefining_ReformToGranite.jobString>석재 블록 재성형 중.</StoneRefining_ReformToGranite.jobString>
+
+  <StoneRefining_ReformToLimestone.label>석재 블록을 석회암 블록으로 재성형 x1</StoneRefining_ReformToLimestone.label>
+  <StoneRefining_ReformToLimestone.description>화강암·대리석·사암·점판암 블록이나 미호 세라믹 1개를 석회암 블록 1개로 바꿉니다.</StoneRefining_ReformToLimestone.description>
+  <StoneRefining_ReformToLimestone.jobString>석재 블록 재성형 중.</StoneRefining_ReformToLimestone.jobString>
+
+  <StoneRefining_ReformToMarble.label>석재 블록을 대리석 블록으로 재성형 x1</StoneRefining_ReformToMarble.label>
+  <StoneRefining_ReformToMarble.description>화강암·석회암·사암·점판암 블록이나 미호 세라믹 1개를 대리석 블록 1개로 바꿉니다.</StoneRefining_ReformToMarble.description>
+  <StoneRefining_ReformToMarble.jobString>석재 블록 재성형 중.</StoneRefining_ReformToMarble.jobString>
+
+  <StoneRefining_ReformToSandstone.label>석재 블록을 사암 블록으로 재성형 x1</StoneRefining_ReformToSandstone.label>
+  <StoneRefining_ReformToSandstone.description>화강암·석회암·대리석·점판암 블록이나 미호 세라믹 1개를 사암 블록 1개로 바꿉니다.</StoneRefining_ReformToSandstone.description>
+  <StoneRefining_ReformToSandstone.jobString>석재 블록 재성형 중.</StoneRefining_ReformToSandstone.jobString>
+
+  <StoneRefining_ReformToSlate.label>석재 블록을 점판암 블록으로 재성형 x1</StoneRefining_ReformToSlate.label>
+  <StoneRefining_ReformToSlate.description>화강암·석회암·대리석·사암 블록이나 미호 세라믹 1개를 점판암 블록 1개로 바꿉니다.</StoneRefining_ReformToSlate.description>
+  <StoneRefining_ReformToSlate.jobString>석재 블록 재성형 중.</StoneRefining_ReformToSlate.jobString>
+
+  <StoneRefining_ReformToMihoCeramics.label>석재 블록을 미호 세라믹으로 재성형 x1</StoneRefining_ReformToMihoCeramics.label>
+  <StoneRefining_ReformToMihoCeramics.description>화강암·석회암·대리석·사암·점판암 블록 1개를 미호 세라믹 1개로 바꿉니다.</StoneRefining_ReformToMihoCeramics.description>
+  <StoneRefining_ReformToMihoCeramics.jobString>석재 블록 재성형 중.</StoneRefining_ReformToMihoCeramics.jobString>
+
+  <StoneRefining_ReformToGranite_Bulk10.label>석재 블록을 화강암 블록으로 재성형 x10</StoneRefining_ReformToGranite_Bulk10.label>
+  <StoneRefining_ReformToGranite_Bulk10.description>석회암·대리석·사암·점판암 블록이나 미호 세라믹 10개를 화강암 블록 10개로 바꿉니다.</StoneRefining_ReformToGranite_Bulk10.description>
+  <StoneRefining_ReformToGranite_Bulk10.jobString>석재 블록 재성형 중.</StoneRefining_ReformToGranite_Bulk10.jobString>
+
+  <StoneRefining_ReformToLimestone_Bulk10.label>석재 블록을 석회암 블록으로 재성형 x10</StoneRefining_ReformToLimestone_Bulk10.label>
+  <StoneRefining_ReformToLimestone_Bulk10.description>화강암·대리석·사암·점판암 블록이나 미호 세라믹 10개를 석회암 블록 10개로 바꿉니다.</StoneRefining_ReformToLimestone_Bulk10.description>
+  <StoneRefining_ReformToLimestone_Bulk10.jobString>석재 블록 재성형 중.</StoneRefining_ReformToLimestone_Bulk10.jobString>
+
+  <StoneRefining_ReformToMarble_Bulk10.label>석재 블록을 대리석 블록으로 재성형 x10</StoneRefining_ReformToMarble_Bulk10.label>
+  <StoneRefining_ReformToMarble_Bulk10.description>화강암·석회암·사암·점판암 블록이나 미호 세라믹 10개를 대리석 블록 10개로 바꿉니다.</StoneRefining_ReformToMarble_Bulk10.description>
+  <StoneRefining_ReformToMarble_Bulk10.jobString>석재 블록 재성형 중.</StoneRefining_ReformToMarble_Bulk10.jobString>
+
+  <StoneRefining_ReformToSandstone_Bulk10.label>석재 블록을 사암 블록으로 재성형 x10</StoneRefining_ReformToSandstone_Bulk10.label>
+  <StoneRefining_ReformToSandstone_Bulk10.description>화강암·석회암·대리석·점판암 블록이나 미호 세라믹 10개를 사암 블록 10개로 바꿉니다.</StoneRefining_ReformToSandstone_Bulk10.description>
+  <StoneRefining_ReformToSandstone_Bulk10.jobString>석재 블록 재성형 중.</StoneRefining_ReformToSandstone_Bulk10.jobString>
+
+  <StoneRefining_ReformToSlate_Bulk10.label>석재 블록을 점판암 블록으로 재성형 x10</StoneRefining_ReformToSlate_Bulk10.label>
+  <StoneRefining_ReformToSlate_Bulk10.description>화강암·석회암·대리석·사암 블록이나 미호 세라믹 10개를 점판암 블록 10개로 바꿉니다.</StoneRefining_ReformToSlate_Bulk10.description>
+  <StoneRefining_ReformToSlate_Bulk10.jobString>석재 블록 재성형 중.</StoneRefining_ReformToSlate_Bulk10.jobString>
+
+  <StoneRefining_ReformToMihoCeramics_Bulk10.label>석재 블록을 미호 세라믹으로 재성형 x10</StoneRefining_ReformToMihoCeramics_Bulk10.label>
+  <StoneRefining_ReformToMihoCeramics_Bulk10.description>화강암·석회암·대리석·사암·점판암 블록 10개를 미호 세라믹 10개로 바꿉니다.</StoneRefining_ReformToMihoCeramics_Bulk10.description>
+  <StoneRefining_ReformToMihoCeramics_Bulk10.jobString>석재 블록 재성형 중.</StoneRefining_ReformToMihoCeramics_Bulk10.jobString>
+</LanguageData>

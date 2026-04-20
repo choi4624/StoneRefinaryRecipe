@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Crush chunks at electric smelter or Miho shaft furnace. -->
+  <RecipeDef>
+    <defName>StoneRefining_ChunksToCrushed</defName>
+    <label>Crush stone chunks</label>
+    <description>Crush stone chunks into crushed stone. Higher mining yield returns more crushed stone per chunk.</description>
+    <jobString>Crushing stone chunks.</jobString>
+    <workSpeedStat>MiningSpeed</workSpeedStat>
+    <efficiencyStat>MiningYield</efficiencyStat>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <workAmount>400</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>StoneChunks</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>StoneChunks</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <StoneRefining_CrushedStone>40</StoneRefining_CrushedStone>
+    </products>
+    <workSkill>Mining</workSkill>
+    <workSkillLearnFactor>0.1</workSkillLearnFactor>
+    <recipeUsers>
+      <li>ElectricSmelter</li>
+      <li>Miho_ShaftFurnace</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

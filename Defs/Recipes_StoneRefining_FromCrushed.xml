@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Refine crushed stone into metal. -->
+  <RecipeDef>
+    <defName>StoneRefining_CrushedToSteel</defName>
+    <label>Extract steel from crushed stone</label>
+    <description>Smelt crushed stone to recover steel.</description>
+    <jobString>Extracting steel.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>200</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>StoneRefining_CrushedStone</li>
+          </thingDefs>
+        </filter>
+        <count>80</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>StoneRefining_CrushedStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Steel>15</Steel>
+    </products>
+    <skillRequirements>
+      <Intellectual>5</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>ElectricSmelter</li>
+      <li>Miho_CelestialForge</li>
+      <li>Miho_ShaftFurnace</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_CrushedToPlasteel</defName>
+    <label>Extract plasteel from crushed stone</label>
+    <description>Process crushed stone at extreme heat to recover plasteel.</description>
+    <jobString>Extracting plasteel.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>380</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>StoneRefining_CrushedStone</li>
+          </thingDefs>
+        </filter>
+        <count>120</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>StoneRefining_CrushedStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Plasteel>8</Plasteel>
+    </products>
+    <skillRequirements>
+      <Intellectual>17</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>ElectricSmelter</li>
+      <li>Miho_CelestialForge</li>
+      <li>Miho_ShaftFurnace</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_CrushedToUranium</defName>
+    <label>Extract uranium from crushed stone</label>
+    <description>Separate trace uranium from crushed stone.</description>
+    <jobString>Extracting uranium.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>380</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>StoneRefining_CrushedStone</li>
+          </thingDefs>
+        </filter>
+        <count>120</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>StoneRefining_CrushedStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Uranium>8</Uranium>
+    </products>
+    <skillRequirements>
+      <Intellectual>17</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>ElectricSmelter</li>
+      <li>Miho_CelestialForge</li>
+      <li>Miho_ShaftFurnace</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_CrushedToSilver</defName>
+    <label>Extract silver from crushed stone</label>
+    <description>Recover trace silver from crushed stone.</description>
+    <jobString>Extracting silver.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>220</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>StoneRefining_CrushedStone</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>StoneRefining_CrushedStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Silver>35</Silver>
+    </products>
+    <skillRequirements>
+      <Intellectual>8</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>ElectricSmelter</li>
+      <li>Miho_CelestialForge</li>
+      <li>Miho_ShaftFurnace</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_CrushedToGold</defName>
+    <label>Extract gold from crushed stone</label>
+    <description>Recover trace gold from crushed stone.</description>
+    <jobString>Extracting gold.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>320</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>StoneRefining_CrushedStone</li>
+          </thingDefs>
+        </filter>
+        <count>160</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>StoneRefining_CrushedStone</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Gold>6</Gold>
+    </products>
+    <skillRequirements>
+      <Intellectual>14</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>ElectricSmelter</li>
+      <li>Miho_CelestialForge</li>
+      <li>Miho_ShaftFurnace</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

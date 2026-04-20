@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>StoneRefinaryRecipe</name>
+  <author>choi4624</author>
+  <packageId>choi4624.customrecipes</packageId>
+  <modIconPath IgnoreIfNoMatchingField="True">About/ModPreview</modIconPath>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Crush stone chunks at the electric smelter or Miho shaft furnace</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>miho.fortifiedoutremer</packageId>
+      <displayName>Miho, the celestial fox</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>miho.fortifiedoutremer</li>
+  </loadAfter>
+</ModMetaData>

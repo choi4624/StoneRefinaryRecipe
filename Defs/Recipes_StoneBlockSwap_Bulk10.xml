@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Stonecutter: bulk 10 reform. Same inputs as x1 recipes, 10:10. -->
+
+  <RecipeDef>
+    <defName>StoneRefining_ReformToGranite_Bulk10</defName>
+    <label>Reform blocks into granite blocks (x10)</label>
+    <description>Turn 10 limestone, marble, sandstone, slate, or Miho ceramic blocks into 10 granite blocks.</description>
+    <jobString>Reforming stone blocks.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <workAmount>1200</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksLimestone</li>
+            <li>BlocksMarble</li>
+            <li>BlocksSandstone</li>
+            <li>BlocksSlate</li>
+            <li>Miho_Ceramics</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BlocksLimestone</li>
+        <li>BlocksMarble</li>
+        <li>BlocksSandstone</li>
+        <li>BlocksSlate</li>
+        <li>Miho_Ceramics</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BlocksGranite>10</BlocksGranite>
+    </products>
+    <workSkill>Crafting</workSkill>
+    <workSkillLearnFactor>0.05</workSkillLearnFactor>
+    <recipeUsers>
+      <li>TableStonecutter</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_ReformToLimestone_Bulk10</defName>
+    <label>Reform blocks into limestone blocks (x10)</label>
+    <description>Turn 10 granite, marble, sandstone, slate, or Miho ceramic blocks into 10 limestone blocks.</description>
+    <jobString>Reforming stone blocks.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <workAmount>1200</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksGranite</li>
+            <li>BlocksMarble</li>
+            <li>BlocksSandstone</li>
+            <li>BlocksSlate</li>
+            <li>Miho_Ceramics</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BlocksGranite</li>
+        <li>BlocksMarble</li>
+        <li>BlocksSandstone</li>
+        <li>BlocksSlate</li>
+        <li>Miho_Ceramics</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BlocksLimestone>10</BlocksLimestone>
+    </products>
+    <workSkill>Crafting</workSkill>
+    <workSkillLearnFactor>0.05</workSkillLearnFactor>
+    <recipeUsers>
+      <li>TableStonecutter</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_ReformToMarble_Bulk10</defName>
+    <label>Reform blocks into marble blocks (x10)</label>
+    <description>Turn 10 granite, limestone, sandstone, slate, or Miho ceramic blocks into 10 marble blocks.</description>
+    <jobString>Reforming stone blocks.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <workAmount>1200</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksGranite</li>
+            <li>BlocksLimestone</li>
+            <li>BlocksSandstone</li>
+            <li>BlocksSlate</li>
+            <li>Miho_Ceramics</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BlocksGranite</li>
+        <li>BlocksLimestone</li>
+        <li>BlocksSandstone</li>
+        <li>BlocksSlate</li>
+        <li>Miho_Ceramics</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BlocksMarble>10</BlocksMarble>
+    </products>
+    <workSkill>Crafting</workSkill>
+    <workSkillLearnFactor>0.05</workSkillLearnFactor>
+    <recipeUsers>
+      <li>TableStonecutter</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_ReformToSandstone_Bulk10</defName>
+    <label>Reform blocks into sandstone blocks (x10)</label>
+    <description>Turn 10 granite, limestone, marble, slate, or Miho ceramic blocks into 10 sandstone blocks.</description>
+    <jobString>Reforming stone blocks.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <workAmount>1200</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksGranite</li>
+            <li>BlocksLimestone</li>
+            <li>BlocksMarble</li>
+            <li>BlocksSlate</li>
+            <li>Miho_Ceramics</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BlocksGranite</li>
+        <li>BlocksLimestone</li>
+        <li>BlocksMarble</li>
+        <li>BlocksSlate</li>
+        <li>Miho_Ceramics</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BlocksSandstone>10</BlocksSandstone>
+    </products>
+    <workSkill>Crafting</workSkill>
+    <workSkillLearnFactor>0.05</workSkillLearnFactor>
+    <recipeUsers>
+      <li>TableStonecutter</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_ReformToSlate_Bulk10</defName>
+    <label>Reform blocks into slate blocks (x10)</label>
+    <description>Turn 10 granite, limestone, marble, sandstone, or Miho ceramic blocks into 10 slate blocks.</description>
+    <jobString>Reforming stone blocks.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <workAmount>1200</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksGranite</li>
+            <li>BlocksLimestone</li>
+            <li>BlocksMarble</li>
+            <li>BlocksSandstone</li>
+            <li>Miho_Ceramics</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BlocksGranite</li>
+        <li>BlocksLimestone</li>
+        <li>BlocksMarble</li>
+        <li>BlocksSandstone</li>
+        <li>Miho_Ceramics</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BlocksSlate>10</BlocksSlate>
+    </products>
+    <workSkill>Crafting</workSkill>
+    <workSkillLearnFactor>0.05</workSkillLearnFactor>
+    <recipeUsers>
+      <li>TableStonecutter</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_ReformToMihoCeramics_Bulk10</defName>
+    <label>Reform blocks into Miho ceramic (x10)</label>
+    <description>Turn 10 granite, limestone, marble, sandstone, or slate blocks into 10 Miho ceramics.</description>
+    <jobString>Reforming stone blocks.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <workAmount>1200</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>BlocksGranite</li>
+            <li>BlocksLimestone</li>
+            <li>BlocksMarble</li>
+            <li>BlocksSandstone</li>
+            <li>BlocksSlate</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>BlocksGranite</li>
+        <li>BlocksLimestone</li>
+        <li>BlocksMarble</li>
+        <li>BlocksSandstone</li>
+        <li>BlocksSlate</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Miho_Ceramics>10</Miho_Ceramics>
+    </products>
+    <workSkill>Crafting</workSkill>
+    <workSkillLearnFactor>0.05</workSkillLearnFactor>
+    <recipeUsers>
+      <li>TableStonecutter</li>
+    </recipeUsers>
+  </RecipeDef>
+
+</Defs>

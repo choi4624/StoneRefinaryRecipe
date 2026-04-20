@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Direct chunk-to-metal at Miho celestial forge only. -->
+  <RecipeDef>
+    <defName>StoneRefining_ChunkToSteelDirect</defName>
+    <label>Extract steel from stone chunks</label>
+    <description>Smelt stone chunks at high heat to recover steel without crushing first.</description>
+    <jobString>Extracting steel from chunks.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <efficiencyStat>MiningYield</efficiencyStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>2080</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>StoneChunks</li>
+          </categories>
+        </filter>
+        <count>8</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>StoneChunks</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <Steel>75</Steel>
+    </products>
+    <skillRequirements>
+      <Intellectual>6</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>Miho_CelestialForge</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_ChunkToPlasteelDirect</defName>
+    <label>Extract plasteel from stone chunks</label>
+    <description>Process stone chunks at extreme heat to recover plasteel without crushing first.</description>
+    <jobString>Extracting plasteel from chunks.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <efficiencyStat>MiningYield</efficiencyStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>1125</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>StoneChunks</li>
+          </categories>
+        </filter>
+        <count>3</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>StoneChunks</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <Plasteel>10</Plasteel>
+    </products>
+    <skillRequirements>
+      <Intellectual>17</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>Miho_CelestialForge</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_ChunkToUraniumDirect</defName>
+    <label>Extract uranium from stone chunks</label>
+    <description>Separate uranium from stone chunkswithout crushing first.</description>
+    <jobString>Extracting uranium from chunks.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <efficiencyStat>MiningYield</efficiencyStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>1125</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>StoneChunks</li>
+          </categories>
+        </filter>
+        <count>3</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>StoneChunks</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <Uranium>10</Uranium>
+    </products>
+    <skillRequirements>
+      <Intellectual>17</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>Miho_CelestialForge</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_ChunkToSilverDirect</defName>
+    <label>Extract silver from stone chunks</label>
+    <description>Recover silver from stone chunkswithout crushing first.</description>
+    <jobString>Extracting silver from chunks.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <efficiencyStat>MiningYield</efficiencyStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>600</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>StoneChunks</li>
+          </categories>
+        </filter>
+        <count>2</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>StoneChunks</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <Silver>35</Silver>
+    </products>
+    <skillRequirements>
+      <Intellectual>9</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>Miho_CelestialForge</li>
+    </recipeUsers>
+  </RecipeDef>
+
+  <RecipeDef>
+    <defName>StoneRefining_ChunkToGoldDirect</defName>
+    <label>Extract gold from stone chunks</label>
+    <description>Recover gold from stone chunkswithout crushing first.</description>
+    <jobString>Extracting gold from chunks.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <efficiencyStat>MiningYield</efficiencyStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <workAmount>1560</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>StoneChunks</li>
+          </categories>
+        </filter>
+        <count>8</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>StoneChunks</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <Gold>15</Gold>
+    </products>
+    <skillRequirements>
+      <Intellectual>15</Intellectual>
+    </skillRequirements>
+    <workSkill>Intellectual</workSkill>
+    <workSkillLearnFactor>0.35</workSkillLearnFactor>
+    <recipeUsers>
+      <li>Miho_CelestialForge</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>
