@@ -35,8 +35,8 @@
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
     <recipeUsers>
       <li>ElectricSmelter</li>
-      <li>Miho_CelestialForge</li>
-      <li>Miho_ShaftFurnace</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_CelestialForge</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_ShaftFurnace</li>
     </recipeUsers>
   </RecipeDef>
 
@@ -74,8 +74,8 @@
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
     <recipeUsers>
       <li>ElectricSmelter</li>
-      <li>Miho_CelestialForge</li>
-      <li>Miho_ShaftFurnace</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_CelestialForge</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_ShaftFurnace</li>
     </recipeUsers>
   </RecipeDef>
 
@@ -113,8 +113,8 @@
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
     <recipeUsers>
       <li>ElectricSmelter</li>
-      <li>Miho_CelestialForge</li>
-      <li>Miho_ShaftFurnace</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_CelestialForge</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_ShaftFurnace</li>
     </recipeUsers>
   </RecipeDef>
 
@@ -152,8 +152,8 @@
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
     <recipeUsers>
       <li>ElectricSmelter</li>
-      <li>Miho_CelestialForge</li>
-      <li>Miho_ShaftFurnace</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_CelestialForge</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_ShaftFurnace</li>
     </recipeUsers>
   </RecipeDef>
 
@@ -191,8 +191,8 @@
     <workSkillLearnFactor>0.35</workSkillLearnFactor>
     <recipeUsers>
       <li>ElectricSmelter</li>
-      <li>Miho_CelestialForge</li>
-      <li>Miho_ShaftFurnace</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_CelestialForge</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_ShaftFurnace</li>
     </recipeUsers>
   </RecipeDef>
 </Defs>

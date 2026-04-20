@@ -33,7 +33,7 @@
     <workSkillLearnFactor>0.1</workSkillLearnFactor>
     <recipeUsers>
       <li>ElectricSmelter</li>
-      <li>Miho_ShaftFurnace</li>
+      <li MayRequire="miho.fortifiedoutremer">Miho_ShaftFurnace</li>
     </recipeUsers>
   </RecipeDef>
 </Defs>

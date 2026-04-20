@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Direct chunk-to-metal at Miho celestial forge only. -->
-  <RecipeDef>
+  <RecipeDef MayRequire="miho.fortifiedoutremer">
     <defName>StoneRefining_ChunkToSteelDirect</defName>
     <label>Extract steel from stone chunks</label>
     <description>Smelt stone chunks at high heat to recover steel without crushing first.</description>
@@ -39,7 +39,7 @@
     </recipeUsers>
   </RecipeDef>
 
-  <RecipeDef>
+  <RecipeDef MayRequire="miho.fortifiedoutremer">
     <defName>StoneRefining_ChunkToPlasteelDirect</defName>
     <label>Extract plasteel from stone chunks</label>
     <description>Process stone chunks at extreme heat to recover plasteel without crushing first.</description>
@@ -77,7 +77,7 @@
     </recipeUsers>
   </RecipeDef>
 
-  <RecipeDef>
+  <RecipeDef MayRequire="miho.fortifiedoutremer">
     <defName>StoneRefining_ChunkToUraniumDirect</defName>
     <label>Extract uranium from stone chunks</label>
     <description>Separate uranium from stone chunkswithout crushing first.</description>
@@ -115,7 +115,7 @@
     </recipeUsers>
   </RecipeDef>
 
-  <RecipeDef>
+  <RecipeDef MayRequire="miho.fortifiedoutremer">
     <defName>StoneRefining_ChunkToSilverDirect</defName>
     <label>Extract silver from stone chunks</label>
     <description>Recover silver from stone chunkswithout crushing first.</description>
@@ -153,7 +153,7 @@
     </recipeUsers>
   </RecipeDef>
 
-  <RecipeDef>
+  <RecipeDef MayRequire="miho.fortifiedoutremer">
     <defName>StoneRefining_ChunkToGoldDirect</defName>
     <label>Extract gold from stone chunks</label>
     <description>Recover gold from stone chunkswithout crushing first.</description>
