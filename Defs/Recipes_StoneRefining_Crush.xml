@@ -11,6 +11,7 @@
     <effectWorking>CutStone</effectWorking>
     <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
     <workAmount>400</workAmount>
+    <researchPrerequisite>DeepDrilling</researchPrerequisite>
     <ingredients>
       <li>
         <filter>

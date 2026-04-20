@@ -10,6 +10,7 @@
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <workAmount>200</workAmount>
+    <researchPrerequisite>GroundPenetratingScanner</researchPrerequisite>
     <ingredients>
       <li>
         <filter>
@@ -50,6 +51,7 @@
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <workAmount>380</workAmount>
+    <researchPrerequisite>GroundPenetratingScanner</researchPrerequisite>
     <ingredients>
       <li>
         <filter>
@@ -90,6 +92,7 @@
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <workAmount>380</workAmount>
+    <researchPrerequisite>GroundPenetratingScanner</researchPrerequisite>
     <ingredients>
       <li>
         <filter>
@@ -130,6 +133,7 @@
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <workAmount>220</workAmount>
+    <researchPrerequisite>GroundPenetratingScanner</researchPrerequisite>
     <ingredients>
       <li>
         <filter>
@@ -170,6 +174,7 @@
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
     <workAmount>320</workAmount>
+    <researchPrerequisite>GroundPenetratingScanner</researchPrerequisite>
     <ingredients>
       <li>
         <filter>
